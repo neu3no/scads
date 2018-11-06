@@ -233,8 +233,7 @@ module bett2() {
 
 // anzeige
 bett2();
-//translate([-breit,0,hoch])
-//cube([mat_w, mat_t, mat_h]);
 
-//translate([-balk_s,0,hoch-balk_s]) 
-//teil_Q();
+
+translate([-3000,0,0])
+bett();
